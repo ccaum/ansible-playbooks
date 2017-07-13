@@ -1,0 +1,10 @@
+---
+# Variables here are applicable to all host groups
+
+httpd_port: 80
+ntpserver: 192.168.1.2
+ec2_keypair: ccaum
+ec2_region: us-east-1
+ec2_image: ami-6b32627c
+ec2_subnet_id: subnet-e712bfcb
+ec2_availability_zone: us-east-1c
